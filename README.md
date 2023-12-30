@@ -20,7 +20,7 @@ git clone https://github.com/chaudharysurya14/MARIO-Terraform.git
 Change the directory
 
 ```
-cd supermario-k8s
+cd MARIO-Terraform
 ```
 
 Provide the executable permission to script.sh file, and run it.
