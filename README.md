@@ -123,6 +123,6 @@ Don’t forget to Stop or Delete all clusters and services of AWS otherwise this
 
 ## Author
 
-- [Suryadev Chaudhary](https://github.com/chaudharysurya14/MARIO-Terraform.git)
+- [Suryadev Chaudhary]('https://github.com/chaudharysurya14/MARIO-Terraform.git')
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPjhPV6D68kBoBq82reUr6ndqcI_n9YPSQ9WA3sqT_RAXpDVcujzTO1MmWrcmcGYeyA&usqp=CAU)
