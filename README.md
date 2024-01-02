@@ -47,7 +47,7 @@ Run Terraform init
 
 NOTE: Don’t forgot to change the s3 bucket name in the backend.tf file
 
-`cd EKS-TF`
+`cd MARIO-Terraform`
 
 `terraform init`
 
